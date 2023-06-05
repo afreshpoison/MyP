@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="save" />
+    <string name="enter_comment" />
+    <string name="enter_appointment" />
+    <string name="enter_phoneNumber" />
+    <string name="enter_lastname" />
+    <string name="enter_name" />
+    <string name="save_button_text">Зберегти</string>
+    <string name="show_clients_button_text">Показати клієнтів</string>
+    <string name="edit_client_name_label">Введіть ім\'я клієнта</string>
+    <string name="edit_client_last_name_label">Введіть прізвище клієнта</string>
+    <string name="edit_client_phone_number_label">Введіть номер телефону клієнта</string>
+    <string name="edit_client_appointment_label">Введіть запис клієнта</string>
+    <string name="edit_client_comment_label">Введіть коментар</string>
+
+
+</resources>
